@@ -1,13 +1,11 @@
 # Pumpkin pie recipe
 
-
 ## Preparation
 
 - Remove seeds
 - Bake pumpkin/squash
 - Take out the inside of the pumpkin
 - Use 2 cups of pumpkin pulp per pie
-
 
 ## Ingredients
 
@@ -21,7 +19,6 @@
 - 0.5 tsp ground cloves
 - 2 eggs
 
-
 ## Instructions
 
 - Mix dry ingredients
@@ -29,7 +26,6 @@
 - Smash manually until somehow homogeneous
 - Add eggs and blend
 - Add evaporated milk and blend
-
 
 ## Baking
 
